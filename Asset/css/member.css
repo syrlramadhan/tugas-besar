@@ -28,6 +28,10 @@ nav {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#navbar a:hover{
+    color: black;
+}
+
 footer{
     text-align: center; 
     background-color: #0e4974;

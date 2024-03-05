@@ -27,6 +27,10 @@ header {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#navbar a:hover{
+    color: black;
+}
+
 .container{
     background-color: #0E5284;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -106,6 +110,10 @@ footer{
     border-radius: 20px;
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ang button:hover{
+    background-color: #2261ff;
 }
 
 .ang h2{

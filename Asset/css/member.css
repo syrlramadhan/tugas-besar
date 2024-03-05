@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 600px;
+    background-color: #0E5284;
+}
+
+nav {
+    display: flex;
+    overflow: hidden;
+    justify-content: space-between;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0;
+}
+
+#navbar a{
+    float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer{
+    text-align: center; 
+}
+
+#container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    padding-top: 70px;
+}
+
+.ang{
+    background-color: white;
+    width: 319px;
+    height: 487px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.ang img{
+    width: 244px;
+    height: 244px;
+    border-radius: 100%;
+    padding: 30px;
+}
+
+.ang button{
+    background-color: #003CD8;
+    color: white;
+    width: 254px;
+    height: 49px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ang h2{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#contact{
+    padding: 20px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social ul li{
+    padding: 0;
+    margin: 0;
+}

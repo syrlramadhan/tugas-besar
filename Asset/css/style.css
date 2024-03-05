@@ -58,8 +58,10 @@ header {
     padding: 20px;
 }
 
-.footer{
+footer{
     text-align: center; 
+    background-color: #0e4974;
+    padding: 20px;
 }
 
 #contact{
@@ -67,6 +69,7 @@ header {
     margin: 0;
     display: flex;
     justify-content: space-between;
+    background-color: #0e4974;
 }
 
 .social ul li{
@@ -112,5 +115,13 @@ header {
 
 .more{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: ;
+}
+
+.sosial a{
+    color: black;
+    text-decoration: none;
+}
+
+.sosial a:hover{
+    color: white;
 }

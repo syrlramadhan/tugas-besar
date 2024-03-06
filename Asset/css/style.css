@@ -146,8 +146,7 @@ footer{
     }
 
     header img{
-        width: 20%;
-        height: 20%;
+        display: none;
     }
 
     #navbar{

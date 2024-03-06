@@ -23,7 +23,7 @@ nav {
     display: block;
     color: blue;
     text-align: center;
-    padding: 14px;
+    padding:14px;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -61,18 +61,12 @@ footer{
     padding: 30px;
 }
 
-.ang button{
-    background-color: #003CD8;
-    color: white;
-    width: 254px;
-    height: 49px;
-    border-radius: 20px;
+.ang h2{
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.ang h2{
-    font-size: 25px;
+.ang p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 

@@ -139,7 +139,7 @@ footer{
     color: white;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 720px){
     header{
         display: flex;
         width: 100%;
@@ -162,6 +162,7 @@ footer{
     #home{
         height: 450px;
         text-align: center;
+        background-size: 300px;
     }
 
     #member{
@@ -179,38 +180,6 @@ footer{
         width: 180px;
         height: 180px;
     }
-
-    /* #member{
-        margin-right: 5px;
-    }
-
-    .ang{
-        height: 243.5px;
-    }
-
-    .ang img{
-        width: 122px;
-        height: 122px;
-        padding: 10px;
-    }
-
-    .ang h2{
-        font-size: 12.5px;
-    }
-
-    .ang p{
-        font-size: 7.5px;
-    }
-
-    .syarif{
-        display: none;
-    }
-
-    .more button{
-        width: 127px;
-        height: 24.5px;
-        font-size: 12.5px;
-    } */
 
     #contact{
         display: block;

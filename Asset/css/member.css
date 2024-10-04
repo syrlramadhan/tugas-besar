@@ -89,10 +89,10 @@ footer{
     color: black;
 }
 
-.sosial ul li{
+/* .sosial ul li{
     padding: 0;
     margin: 0;
-}
+} */
 
 @media  screen and (max-width: 720px) {
     nav{

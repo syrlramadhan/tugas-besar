@@ -60,12 +60,14 @@ header {
 
 #about .text{
     padding: 20px;
+    color: #ffffff;
 }
 
 footer{
     text-align: center; 
     background-color: #0e4974;
     padding: 20px;
+    color: #ffffff;
 }
 
 #contact{
@@ -74,11 +76,7 @@ footer{
     display: flex;
     justify-content: space-between;
     background-color: #0e4974;
-}
-
-.social ul li{
-    padding: 0;
-    margin: 0;
+    color: #ffffff;
 }
 
 #member{
@@ -131,12 +129,12 @@ footer{
 }
 
 .sosial a{
-    color: black;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .sosial a:hover{
-    color: white;
+    color: grey;
 }
 
 @media screen and (max-width: 720px){

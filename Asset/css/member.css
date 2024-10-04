@@ -36,6 +36,7 @@ footer{
     text-align: center; 
     background-color: #0e4974;
     padding: 20px;
+    color: #ffffff;
 }
 
 #container{
@@ -76,15 +77,16 @@ footer{
     display: flex;
     justify-content: space-between;
     background-color: #0e4974;
+    color: #ffffff;
 }
 
 .sosial a{
-    color: black;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .sosial a:hover{
-    color: white;
+    color: black;
 }
 
 .sosial ul li{
